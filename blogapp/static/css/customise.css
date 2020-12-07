@@ -1,0 +1,24 @@
+h1 a{
+ color: #FF8833;
+ font-family: 'Syne Tactile', cursive;
+}
+
+h2 a{
+ color: #FF8833;
+ font-family: 'Syne Tactile', cursive;
+}
+
+
+body{
+padding-left:15px;
+}
+
+.page-header{
+background-color:yellow
+}
+
+p{
+color:red;
+background-color:pink;
+font-family: 'Syne Tactile', cursive;
+}
